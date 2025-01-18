@@ -1,0 +1,31 @@
+_repo: Im-Banne-der-freien-Reichsstadt-b-Kulturgeschichtliche-Erzahlung-aus-dem-funfzehnten-Jahrhund__75086
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Friedrich, Woldemar
+    gutenberg_agent_id: '57818'
+    url: http://www.gutenberg.org/2009/agents/57818
+creator:
+  author:
+    agent_name: Augusti, Brigitte
+    gutenberg_agent_id: '57817'
+    url: http://www.gutenberg.org/2009/agents/57817
+description: ''
+gutenberg_issued: '2025-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75086'
+language: de
+pgterms:marc905: 20220904023659augusti
+pgterms:marc906: '1897'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aLeipzig :$bFerdinand Hirt & Sohn, $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Im Banne der freien Reichsstadt : $b Kulturgeschichtliche Erzählung aus dem
+  fünfzehnten Jahrhundert'
+url: http://www.gutenberg.org/ebooks/75086
