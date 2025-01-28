@@ -5,12 +5,17 @@ contributor:
     agent_name: Friedrich, Woldemar
     gutenberg_agent_id: '57818'
     url: http://www.gutenberg.org/2009/agents/57818
+covers:
+- cover_type: archival
+  image_path: 75086-h/images/cover.jpg
 creator:
   author:
     agent_name: Augusti, Brigitte
     gutenberg_agent_id: '57817'
     url: http://www.gutenberg.org/2009/agents/57817
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75086#Im-Banne-der-freien-Reichsstadt-b-Kulturgeschichtliche-Erzahlung-aus-dem-funfzehnten-Jahrhund_
 gutenberg_issued: '2025-01-12'
 gutenberg_type: Text
 identifiers:
